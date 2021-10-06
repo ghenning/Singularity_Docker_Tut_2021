@@ -218,8 +218,10 @@ There is also a `build` function in Singularity. I haven't used it
 myself, so I can't comment on it. If you're interested take a look
 at the `singularity build` documentation.
 
-**Additional information on converting Docker images to Singularity**
+**Additional information on converting Docker images to Singularity:**
+
 [Tar Docker image and build with singularity build](https://www.nas.nasa.gov/hecc/support/kb/converting-docker-images-to-singularity-for-use-on-pleiades_643.html)
+
 [Use spython to make a singularity.def to build image](https://pypi.org/project/spython/)
 
 
